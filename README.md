@@ -35,7 +35,7 @@ The image below provides a part of my report for a ficticious company "Paws & Wh
 ![image alt](https://github.com/alyssa371/workbook-projects/blob/6548b13865cddd970674100351e85f615a51d683/Screenshot%202025-11-06%20072430.png)
 
 # Python 
-I wrote the code below to create a new column to an existing table based on several conditions.
+Learned the fundamentals of Python programming. I wrote the code below to create a new column to an existing table based on several conditions.
 
 ![image alt](https://github.com/alyssa371/workbook-projects/blob/6548b13865cddd970674100351e85f615a51d683/Screenshot%202025-10-29%20175647.png)
 
